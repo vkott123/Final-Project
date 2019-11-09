@@ -1,0 +1,30 @@
+Master list of code used that is not original:
+(Hopefully I don't forget any, a lot of these came as parts of other plugins I nabbed and I tried to compile this the best I could)
+
+Google Fonts
+    https://www.google.com/fonts/
+
+
+jQuery Waypoint
+    https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
+jQuery
+    http://jquery.com/
+jQuery Easing
+    http://gsgd.co.uk/sandbox/jquery/easing/
+
+Modernizr
+    http://modernizr.com/
+
+animate.css
+    http://daneden.me/animate
+
+
+Owl Carousel
+    https://owlcarousel2.github.io/OwlCarousel2/
+
+Magnific Popup
+    http://dimsemenov.com/plugins/magnific-popup/
+    
+DatePickerPlugin
+    https://github.com/eternicode/bootstrap-datepicker
+
